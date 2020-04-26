@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/home/ayrton/Documentos/eclipse-workspace/curso_java_book/.metadata/.plugins/org.eclipse.jdt.core
+2922572065.index
+3316356092.index
+1278584928.index

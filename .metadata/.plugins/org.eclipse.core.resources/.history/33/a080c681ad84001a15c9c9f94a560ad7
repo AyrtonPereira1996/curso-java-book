@@ -1,0 +1,9 @@
+//Author: Ayrton Pereira
+//Objective: Use local variables with cast
+
+
+public class Variables {
+	public static void main(String[] args) {
+		
+	}
+}

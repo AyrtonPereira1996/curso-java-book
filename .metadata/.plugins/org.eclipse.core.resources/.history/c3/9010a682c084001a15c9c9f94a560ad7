@@ -1,0 +1,8 @@
+package logics.comparations.conditions.operations;
+
+public class LogicsComparationsConditionsOperations {
+	public static void main(String[] args) {
+
+	}
+
+}

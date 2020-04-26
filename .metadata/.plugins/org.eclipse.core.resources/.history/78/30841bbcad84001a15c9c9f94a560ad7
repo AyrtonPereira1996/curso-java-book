@@ -1,0 +1,18 @@
+//Author: Ayrton Pereira
+//Objective: Use local variables with cast
+
+
+public class Variables {
+	public static void main(String[] args) {
+		int x, y, w, r;
+		String result = "Result = "
+
+		x = 4;
+		y = 20;
+		w = (int) 3.15; //using cast on double type data
+		
+		r = 
+		
+		
+	}
+}
