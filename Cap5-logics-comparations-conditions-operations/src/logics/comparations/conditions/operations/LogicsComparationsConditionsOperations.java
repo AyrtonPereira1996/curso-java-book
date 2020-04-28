@@ -9,7 +9,7 @@ public class LogicsComparationsConditionsOperations {
 		
 		if ((x>y) && (x>z))
 			System.out.println("O X tem o maior numero");
-		else if ((x<y)&&(x>y))
+		else if ((x<y)&&(x<z))
 			System.out.println("O X tem o menor numero");
 		else
 			System.out.println("O valor de X não é o maior nem o menor");
