@@ -13,5 +13,17 @@
     <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="exercices.Computador"/>
+    <fullyQualifiedTypeName name="constructors.Veiculo"/>
+    <fullyQualifiedTypeName name="override.Veiculo"/>
+    <fullyQualifiedTypeName name="override.Bicicleta"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="packageb.exampleb"/>
+    <fullyQualifiedTypeName name="packagec.examplec"/>
+    <fullyQualifiedTypeName name="packageb.Exampleb"/>
+    <fullyQualifiedTypeName name="sun.jvm.hotspot.oops.java_lang_Class"/>
+    <fullyQualifiedTypeName name="exercicio.Estatisticas"/>
+    <fullyQualifiedTypeName name="java.lang.Double"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="java.lang.Character"/>
 </qualifiedTypeNameHistroy>
